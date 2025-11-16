@@ -5,31 +5,289 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aminshazrin@gmail.com)
 [![NPMJS](https://img.shields.io/badge/-npm-red?style=flat&logo=NPM&logoColor=white)](https://www.npmjs.com/~ammein)
 [![PyPi](https://img.shields.io/badge/-Pypi-lightgrey?style=flat&logo=pypi)](https://pypi.org/user/ammein/)
+[![HitCount](https://hits.dwyl.com/ammein/ammein.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ammein/ammein)
 
 ### aminshazrin@personal ~ $ whoami
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" height="30%" align="right" style="border-radius:100%;" src="./glitch.gif">
+<img width="55%" height="30%" align="right" src="./glitch.gif">
 
 - 📚 I'm currently learning on GLSL Applied Mathematics
-- 👨🏽‍🎨 I love to create beautiful UI with better User Experience
+- 👨🏽‍🎨 I love to transform dreams into a solution. Logical solution...
 - 🤝🏽 I don't create complications, I ease them.
+- 🔫 I love First Person Shooting games.
+- 🏸 Badminton is my hobby.
+- 🤔 I'm looking for someone who an expert in Mathematics to work together on a UI Interactivity Side Quest.
+- 📫 How to reach me: aminshazrin@gmail.com
+  <details>
+      <summary>If you can understand this glsl language, we should be friends 🤭</summary>
+      ```glsl
 
-<!--
-**ammein/ammein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+          #ifdef GL_ES
+          precision mediump float;
+          #endif
 
-Here are some ideas to get you started:
+          uniform sampler2D   uTexture;
+          uniform vec2        uTextureResolution;
+          uniform vec2        u_resolution;
+          uniform vec2        u_mouse;
+          uniform sampler2D   u_buffer1;
+          uniform sampler2D   u_buffer0;
+          uniform sampler2D   u_doubleBuffer0;
+          varying vec2        v_texcoord;
+          uniform float       u_time;
+          uniform int         u_frame;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          // --------------------------------------------------
+          // WEBGL Defines
+          // --------------------------------------------------
+          #ifdef PLATFORM_WEBGL
+          #define FNC_ROUND
+          #endif
+
+          #include "lygia/version.glsl"
+          #include "lygia/sampler.glsl"
+          #include "lygia/generative/snoise.glsl"
+          #include "lygia/generative/random.glsl"
+          #include "lygia/math.glsl"
+          #include "lygia/sdf/circleSDF.glsl"
+          #include "lygia/space/ratio.glsl"
+          #include "lygia/draw/fill.glsl"
+          #include "lygia/draw/stroke.glsl"
+          #include "lygia/draw/digits.glsl"
+
+          float grid = 10.;
+          float randomStrength = 100.;
+          float strength = 0.5;
+          vec2 mouseVel = vec2(0.5);
+          float trail = 0.41;
+          float circleSize = 0.15;
+
+          // --------------------------------------------------
+          // Defines
+          // --------------------------------------------------
+          #define RADIUS  0.01
+          #define SAMPLES 3
+          #define SAMPLER_FNC_BIAS(TEX, UV, BIAS) texture2D(TEX, UV, BIAS)
+          #define BPM 120.0
+          #define _beat (u_time * BPM / 60.0)
+          #define beat (mod(_beat, 32.0))
+          #define CEL                         rem(u_resolution)
+          #define LOWRES                      320.
+
+          // --------------------------------------------------
+          // Common Functions
+          // --------------------------------------------------
+          float make_dot (vec2 uv, float r, float c)
+          {
+          return smoothstep( r - .1, r, min( length((uv - vec2(c/2.))*2.), r));
+          }
+
+          float rem(vec2 iR)
+          {
+              float slices = floor(iR.y / LOWRES);
+              if(slices < 1.){
+                  return 4.;
+              }
+              else if(slices == 1.){
+                  return 6.;
+              }
+              else if(slices == 2.){
+                  return 8.;
+              }
+              else if(slices >= 3.){
+                  return 10.;
+              }
+              else if(slices >= 4.){
+                  return 12.;
+              }
+
+              return 1.;
+          }
+
+          float get_tex(vec2 U, in sampler2D channel)
+          {
+              vec3 tex_col = SAMPLER_FNC(channel,U / u_resolution).xyz;
+              return  .45 * (tex_col.x + tex_col.y + tex_col.z);
+          }
+
+
+          vec3 updateTexture(in vec2 st) {
+                  // Grid cell index
+              vec2 dataID = floor(st * vec2(grid, grid));
+
+              // Calculate a time-based offset to gradually return to the original color
+              float timeFactor = sin(u_time * 0.5); // Oscillation based on time
+              float decayFactor = smoothstep(1.0, 0.0, timeFactor); // Smooth decay over time
+
+              // Generate a larger random offset for more pronounced movement
+              vec3 offset = vec3(random(dataID + 0.13), random(dataID + 0.71), random(dataID + 0.37)) * (1.0 - decayFactor) * randomStrength; // Adjust scale for more movement
+
+              // Return the updated color
+              return offset;
+
+          }
+
+          vec2 getUV(vec2 uv, vec2 textureSize, vec2 quadSize){
+              vec2 tempUV = uv - vec2(0.5);
+
+              float quadAspect = quadSize.x / quadSize.y;
+              float textureAspect = textureSize.x / textureSize.y;
+
+              // Simplified One Liner Code
+              tempUV = mix(tempUV * vec2(quadAspect/textureAspect, 1.), tempUV * vec2(1., textureAspect/quadAspect), step(textureAspect,quadAspect));
+
+              tempUV += vec2(0.5);
+              return tempUV;
+          }
+
+          // --------------------------------------------------
+          // Main
+          // --------------------------------------------------
+
+          void main()	{
+              vec2 newUV = getUV(v_texcoord, uTextureResolution, u_resolution);
+              vec2 pixel = 1./u_resolution.xy;
+              vec2 st = gl_FragCoord.xy * pixel;
+              vec2 mouse = u_mouse/u_resolution;
+              st = ratio(st, u_resolution);
+              mouse = ratio(mouse, u_resolution);
+              vec4 color = vec4(vec3(0.), 1.);
+
+          #if defined(DOUBLE_BUFFER_0)
+              // Fetch the color from the double buffer
+              /**
+              * - This line retrieves the RGB color value of the current pixel from a texture (double buffer) using the texture coordinates st
+              */
+              color.rgb = SAMPLER_FNC(u_doubleBuffer0, st).rgb;
+
+              // Calculate the distance from the mouse position to create the circle
+              /*
+              - Initializes a variable d to zero.
+              - Calculates a distance value based on the distance from the mouse position to create a circular effect.
+              - The fill function is likely a custom function that determines how much of the circle is filled based on parameters like circleSize and trail
+              */
+              float d = 0.0;
+              d = 1.75 * fill(circleSDF(st - u_mouse / u_resolution + 0.5), circleSize, trail);
+
+              // Grab the information around the active pixel
+              /*
+              - Retrieves the green component of the current pixel color and stores it in s0.
+              - Defines a pixelBuffer vector that helps in fetching neighboring pixel colors based on the resolution.
+              - Fetches the red components of the neighboring pixels (s1, s2, s3, s4) by offsetting the current pixel coordinates st using pixelBuffer.
+              */
+              float s0 = color.y;
+              vec3 pixelBuffer = vec3(vec2(2.0) / u_resolution.xy, 0.0);
+              float s1 = SAMPLER_FNC(u_doubleBuffer0, st + (-pixelBuffer.zy)).r; // s1
+              float s2 = SAMPLER_FNC(u_doubleBuffer0, st + (-pixelBuffer.xz)).r; // s2 s0 s3
+              float s3 = SAMPLER_FNC(u_doubleBuffer0, st + (pixelBuffer.xz)).r; // s4
+              float s4 = SAMPLER_FNC(u_doubleBuffer0, st + (pixelBuffer.zy)).r;
+
+              // Compute Distance Based on Surrounding Pixels
+              /**
+              - Updates the distance d by adjusting it based on the difference of s0 from 0.5, and the average of the neighboring pixels. This helps create a smooth transition effect based on surrounding pixel colors.
+              */
+              d += -(s0 - .5) * 2.0 + (s1 + s2 + s3 + s4 - 2.0);
+
+              // Apply decay and clean buffer at startup
+              /*
+              - Applies a decay factor to d, making the effect fade over time.
+              - If the frame count (u_frame) is less than or equal to 1, it sets d to zero, effectively cleaning the buffer during startup.
+              - Clamps the value of d to ensure it stays within the range [0.0, 1.0].
+              */
+              d *= 0.99;
+              d *= (u_frame <= 1) ? 0.0 : 1.0; // Clean buffer at startup
+              d = clamp(d * 0.5 + 0.5, 0.0, 1.0);
+
+              // Blend the color with the fade-out effect
+              /*
+              - Blends the current pixel color with a white color based on the value of d. This creates a fade-out effect where the color transitions towards white as d increases.
+              */
+              color.rgb = mix(vec3(color.x), vec3(d, 1., 1.), d); // Mix white with the current color based on fadeOut
+          #elif defined(BUFFER_0)
+              vec3 col = SAMPLER_FNC(u_doubleBuffer0, v_texcoord).rgb;
+
+              vec4 offset = vec4(updateTexture(st), 1.);
+              vec4 texImage = SAMPLER_FNC(uTexture, newUV - 0.02 * offset.rg);
+              color = mix(vec4(col, 1.), texImage, mmax(col));
+          #elif defined(BUFFER_1)
+              vec2 U = gl_FragCoord.xy;
+              float pixel_color = get_tex(ceil(U / CEL) * CEL, u_buffer0);
+              float getAlpha = SAMPLER_FNC(u_buffer0, v_texcoord).a;                  // calculate cel color
+
+              float dot_radius = pixel_color;                                         // dot radius
+              vec3 imageColor = SAMPLER_FNC(u_buffer0, v_texcoord).rgb;
+
+              U = mod(U , CEL);                                                       // cell grid
+
+              vec4 dot_color  = vec4(make_dot(U, ceil(dot_radius * CEL ), CEL ));     // make dots
+
+              color.rgb = (1. - dot_color.rgb) * imageColor;
+              color.a = getAlpha;
+          #else
+              float distanceFromCenter = length( v_texcoord - vec2(0.5) );
+              float vignetteAmount;
+              vignetteAmount = 1.0 - distanceFromCenter;
+              vignetteAmount = smoothstep(0.1, 1.0, vignetteAmount);
+              vec4 buffer_1 = SAMPLER_FNC(u_buffer1, v_texcoord) * vignetteAmount * 1.0;
+              color = buffer_1;
+          #endif
+
+              gl_FragColor = color;
+          }
+      ```
+
+  </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammein&layout=compact&langs_count=10&card_width=600&custom_title=My%20Most%20Used%20Languages&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammein&show_icons=true&theme=transparent)
+**Languages and Tools:**
+
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/ammein">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=ammein&show_icons=true&theme=transparent" />
+  </a>
+
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/stylus-lang/stylus-lang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/opengl/opengl-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+
+</p>
+
+### Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/aminshazrin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
+
+---
+
+[![NPM](https://nodei.co/npm/custom-code-editor-a3.svg?style=shields&data=d)](https://nodei.co/npm/custom-code-editor-a3/)
+
+[![Custom Code Editor A3](https://github-readme-stats.vercel.app/api/pin/?username=ammein&repo=custom-code-editor-a3)](https://github.com/ammein/custom-code-editor-a3)
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/wagtail-custom-code-editor)
+
+[![Wagtail Custom Code Editor](https://github-readme-stats.vercel.app/api/pin/?username=ammein&repo=wagtail-custom-code-editor)](https://github.com/ammein/custom-code-editor-a3)
