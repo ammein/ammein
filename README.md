@@ -21,8 +21,7 @@
 - 📫 How to reach me: aminshazrin@gmail.com
   <details>
       <summary>If you can understand this glsl language, we should be friends 🤭</summary>
-      ```glsl
-
+      <pre>
           #ifdef GL_ES
           precision mediump float;
           #endif
@@ -235,13 +234,14 @@
 
               gl_FragColor = color;
           }
-      ```
+      </pre>
 
   </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammein&layout=compact&langs_count=10&card_width=600&custom_title=My%20Most%20Used%20Languages&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammein&layout=compact&langs_count=10&card_width=800&custom_title=My%20Most%20Used%20Languages&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-**Languages and Tools:**
+### aminshazrin@personal ~ $ Languages and Tools
+---
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -276,18 +276,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 </p>
 
-### Support Me
+### aminshazrin@personal ~ $ Support Me
+---
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/aminshazrin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
-
----
-
-[![NPM](https://nodei.co/npm/custom-code-editor-a3.svg?style=shields&data=d)](https://nodei.co/npm/custom-code-editor-a3/)
-
-[![Custom Code Editor A3](https://github-readme-stats.vercel.app/api/pin/?username=ammein&repo=custom-code-editor-a3)](https://github.com/ammein/custom-code-editor-a3)
-
-![PyPI - Downloads](https://img.shields.io/pypi/dm/wagtail-custom-code-editor)
-
-[![Wagtail Custom Code Editor](https://github-readme-stats.vercel.app/api/pin/?username=ammein&repo=wagtail-custom-code-editor)](https://github.com/ammein/custom-code-editor-a3)
