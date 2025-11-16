@@ -9,9 +9,7 @@
 ### <span style="color:green;">aminshazrin@personal</span> ~ \$ <span style="font-weight:200;">whoami</span>
 
 <!-- Any image aligned to the right. Beware the width -->
-<video width="55%" align="right" controls autoplay loop>
-    <source src="./glitch.mp4" type="video/mp4">
-</video>
+<img width="55%" align="right" style="border-radius:100%;" src="./glitch.gif">
 
 - 📚 I'm currently learning on GLSL Applied Mathematics
 - 👨🏽‍🎨 I love to create beautiful UI with better User Experience
