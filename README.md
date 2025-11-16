@@ -6,10 +6,10 @@
 [![NPMJS](https://img.shields.io/badge/-npm-red?style=flat&logo=NPM&logoColor=white)](https://www.npmjs.com/~ammein)
 [![PyPi](https://img.shields.io/badge/-Pypi-lightgrey?style=flat&logo=pypi)](https://pypi.org/user/ammein/)
 
-### <span style="color:green;">aminshazrin@personal</span> ~ \$ <span style="font-weight:200;">whoami</span>
+### aminshazrin@personal ~ $ whoami
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" style="border-radius:100%;" src="./glitch.gif">
+<img width="55%" height="30%" align="right" style="border-radius:100%;" src="./glitch.gif">
 
 - 📚 I'm currently learning on GLSL Applied Mathematics
 - 👨🏽‍🎨 I love to create beautiful UI with better User Experience
