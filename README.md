@@ -12,13 +12,13 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" height="30%" align="right" src="./glitch.gif">
 
-- 📚 I'm currently learning on GLSL Applied Mathematics
-- 👨🏽‍🎨 I love to transform dreams into a solution. Logical solution...
-- 🤝🏽 I don't create complications, I ease them.
-- 🔫 I love First Person Shooting games.
+- 📚 I’m currently learning GLSL Applied Mathematics.
+- 👨🏽‍🎨 I love transforming dreams into logical solutions.
+- 🤝🏽 I don’t create complications; I simplify them.
+- 🔫 I enjoy first-person shooter games.
 - 🏸 Badminton is my hobby.
-- 🤔 I'm looking for someone who an expert in Mathematics to work together on a UI Interactivity Side Quest.
-- 📫 How to reach me: aminshazrin@gmail.com
+- 🤔 I’m looking for someone who is an expert in mathematics to collaborate with on a UI interactivity side quest.
+- 📫 You can reach me at: aminshazrin@gmail.com
 <details>
       <summary>If you can understand this glsl language, we should be friends 🤭</summary>
       
