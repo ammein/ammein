@@ -21,7 +21,8 @@
 - 📫 You can reach me at: aminshazrin@gmail.com
 <details>
       <summary>If you can understand this glsl language, we should be friends 🤭</summary>
-      
+
+
 ```glsl
     #ifdef GL_ES
     precision mediump float;
@@ -194,7 +195,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammein&layout=compact&langs_count=10&card_width=800&custom_title=My%20Most%20Used%20Languages&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### aminshazrin@personal ~ $ Languages and Tools
+
 ---
 
 <!-- Your github readme stats
@@ -231,6 +238,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 ### aminshazrin@personal ~ $ Support Me
+
 ---
 
 <p align="center">
