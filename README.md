@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
@@ -241,16 +241,16 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       10 hrs 25 mins      ████████████████████████░   94.80 % 
-ShaderLab                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-HLSL                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+C#                       10 hrs 12 mins      ████████████████████████░   94.70 % 
+ShaderLab                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+HLSL                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Rider                    10 hrs 59 mins      █████████████████████████   100.00 % 
+Rider                    10 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AR Chess                 10 hrs 59 mins      █████████████████████████   100.00 % 
+AR Chess                 10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -270,7 +270,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 00:06:42 UTC
+ Last Updated on 17/12/2025 00:06:02 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
