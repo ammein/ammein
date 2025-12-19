@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
@@ -241,16 +241,20 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       13 hrs 17 mins      ████████████████████████░   95.88 % 
-ShaderLab                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-HLSL                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+C#                       12 hrs 44 mins      ████████████████████████░   94.82 % 
+ShaderLab                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TeX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+HLSL                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Rider                    13 hrs 51 mins      █████████████████████████   100.00 % 
+Rider                    13 hrs 21 mins      █████████████████████████   99.43 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-AR Chess                 13 hrs 51 mins      █████████████████████████   100.00 % 
+AR Chess                 12 hrs 49 mins      ████████████████████████░   95.45 % 
+arfoundation-samples     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+psmthesis                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -270,7 +274,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2025 00:06:08 UTC
+ Last Updated on 19/12/2025 00:06:25 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
