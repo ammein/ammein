@@ -198,9 +198,9 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -241,20 +241,20 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       11 hrs 20 mins      ████████████████████████░   97.32 % 
-TeX                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-ShaderLab                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+C#                       11 hrs 35 mins      ████████████████████████░   97.38 % 
+TeX                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+ShaderLab                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Rider                    11 hrs 23 mins      ████████████████████████░   97.73 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Rider                    11 hrs 38 mins      ████████████████████████░   97.78 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🐱‍💻 Projects: 
-AR Chess                 10 hrs 51 mins      ███████████████████████░░   93.14 % 
-arfoundation-samples     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-psmthesis                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+AR Chess                 11 hrs 6 mins       ███████████████████████░░   93.28 % 
+arfoundation-samples     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+psmthesis                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -274,7 +274,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2025 00:06:14 UTC
+ Last Updated on 22/12/2025 00:06:29 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
