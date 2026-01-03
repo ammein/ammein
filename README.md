@@ -198,8 +198,6 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2029%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -214,42 +212,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-🌆 Daytime                1164 commits        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-🌃 Evening                1625 commits        ██████████░░░░░░░░░░░░░░░   38.62 % 
-🌙 Night                  1157 commits        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Tuesday                  714 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Wednesday                655 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Thursday                 434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Friday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Saturday                 713 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Sunday                   555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-C#                       7 hrs 1 min         █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Rider                    7 hrs 1 min         █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-AR Chess                 7 hrs 1 min         █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -267,7 +229,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 00:06:08 UTC
+ Last Updated on 03/01/2026 00:05:58 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
