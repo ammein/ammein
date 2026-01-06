@@ -198,9 +198,9 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -241,19 +241,19 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       46 mins             █████████████░░░░░░░░░░░░   52.89 % 
-TeX                      25 mins             ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-OpenEdge ABL             16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+C#                       38 mins             ██████████░░░░░░░░░░░░░░░   41.27 % 
+TeX                      38 mins             ██████████░░░░░░░░░░░░░░░   41.05 % 
+OpenEdge ABL             16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Rider                    46 mins             █████████████░░░░░░░░░░░░   52.89 % 
-VS Code                  41 mins             ████████████░░░░░░░░░░░░░   47.11 % 
+VS Code                  55 mins             ███████████████░░░░░░░░░░   58.73 % 
+Rider                    38 mins             ██████████░░░░░░░░░░░░░░░   41.27 % 
 
 🐱‍💻 Projects: 
-AR Chess                 46 mins             █████████████░░░░░░░░░░░░   52.89 % 
-my-resume-front-end      41 mins             ████████████░░░░░░░░░░░░░   47.11 % 
+my-resume-front-end      55 mins             ███████████████░░░░░░░░░░   58.73 % 
+AR Chess                 38 mins             ██████████░░░░░░░░░░░░░░░   41.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -273,7 +273,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 00:06:16 UTC
+ Last Updated on 06/01/2026 00:06:33 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
