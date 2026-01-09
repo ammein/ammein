@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -241,19 +241,16 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      49 mins             ███████████████████░░░░░░   74.84 % 
-OpenEdge ABL             16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+TeX                      49 mins             ███████████████████░░░░░░   74.95 % 
+OpenEdge ABL             15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   99.93 % 
-Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-resume-front-end      1 hr 6 mins         █████████████████████████   99.93 % 
-AR Chess                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+my-resume-front-end      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -273,7 +270,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2026 00:06:03 UTC
+ Last Updated on 09/01/2026 00:06:20 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
