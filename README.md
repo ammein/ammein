@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -241,18 +241,17 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      7 hrs 31 mins       ████████████████████████░   97.88 % 
-Makefile                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-OpenEdge ABL             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TeX                      6 hrs 42 mins       ████████████████████████░   97.65 % 
+Makefile                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+OpenEdge ABL             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-resume-front-end      7 hrs 34 mins       █████████████████████████   98.53 % 
-penpot                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+my-resume-front-end      6 hrs 45 mins       █████████████████████████   98.35 % 
+penpot                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -272,7 +271,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2026 00:06:16 UTC
+ Last Updated on 17/01/2026 00:06:33 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
