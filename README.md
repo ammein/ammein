@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -206,7 +206,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -241,14 +241,14 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      31 mins             █████████████████████████   99.69 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TeX                      3 hrs 16 mins       █████████████████████████   99.95 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-resume-front-end      31 mins             █████████████████████████   100.00 % 
+my-resume-front-end      3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -268,7 +268,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2026 00:06:35 UTC
+ Last Updated on 23/01/2026 00:06:32 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
