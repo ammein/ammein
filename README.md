@@ -241,13 +241,13 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      3 hrs 33 mins       █████████████████████████   100.00 % 
+TeX                      3 hrs 20 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-resume-front-end      3 hrs 33 mins       █████████████████████████   100.00 % 
+my-resume-front-end      3 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -267,7 +267,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2026 00:06:30 UTC
+ Last Updated on 29/01/2026 00:06:52 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
