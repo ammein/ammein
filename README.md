@@ -200,7 +200,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -241,14 +241,18 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-JavaScript               14 mins             ███████████████░░░░░░░░░░   60.61 % 
-HTML                     9 mins              ██████████░░░░░░░░░░░░░░░   39.39 % 
+JavaScript               14 mins             ██████████░░░░░░░░░░░░░░░   39.79 % 
+HTML                     11 mins             ████████░░░░░░░░░░░░░░░░░   31.28 % 
+TypeScript               10 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-test                     24 mins             █████████████████████████   100.00 % 
+test                     24 mins             ████████████████░░░░░░░░░   65.64 % 
+spa-react                12 mins             █████████░░░░░░░░░░░░░░░░   34.36 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -268,7 +272,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2026 00:12:26 UTC
+ Last Updated on 12/02/2026 00:07:32 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
