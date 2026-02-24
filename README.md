@@ -241,14 +241,13 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TypeScript               1 hr 1 min          █████████████████████████   99.91 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-test-codility            1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -268,7 +267,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 00:07:09 UTC
+ Last Updated on 24/02/2026 00:08:06 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
