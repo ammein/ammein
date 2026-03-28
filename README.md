@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -206,7 +206,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2026
+> 🏆 8 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -241,13 +241,16 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      15 mins             █████████████████████████   100.00 % 
+C#                       2 mins              ██████████████░░░░░░░░░░░   56.78 % 
+TeX                      2 mins              ███████████░░░░░░░░░░░░░░   43.22 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+Rider                    2 mins              ██████████████░░░░░░░░░░░   56.78 % 
+VS Code                  2 mins              ███████████░░░░░░░░░░░░░░   43.22 % 
 
 🐱‍💻 Projects: 
-my-resume-front-end      15 mins             █████████████████████████   100.00 % 
+AR Chess                 2 mins              ██████████████░░░░░░░░░░░   56.78 % 
+my-resume-front-end      2 mins              ███████████░░░░░░░░░░░░░░   43.22 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -267,7 +270,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 00:10:10 UTC
+ Last Updated on 28/03/2026 00:09:03 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
