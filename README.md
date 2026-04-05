@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -241,19 +241,19 @@ Sunday                   555 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       7 hrs 10 mins       █████████████████████░░░░   82.52 % 
-GitIgnore file           46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-ShaderLab                42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-UnityYaml                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-GitExclude file          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+C#                       8 hrs 14 mins       ███████████████████░░░░░░   74.30 % 
+ShaderLab                2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+GitIgnore file           46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+HLSL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+UnityYaml                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Rider                    8 hrs 41 mins       █████████████████████████   100.00 % 
+Rider                    11 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AR Chess                 4 hrs 50 mins       ██████████████░░░░░░░░░░░   55.74 % 
-ARChess                  3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.71 % 
-arfoundation-samples     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+ARChess                  6 hrs 45 mins       ███████████████░░░░░░░░░░   60.86 % 
+AR Chess                 4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.92 % 
+arfoundation-samples     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -273,7 +273,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 00:09:00 UTC
+ Last Updated on 05/04/2026 00:10:08 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
