@@ -198,13 +198,15 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 56 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -239,18 +241,18 @@ Sunday                   598 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       2 hrs 38 mins       ████████████░░░░░░░░░░░░░   47.05 % 
-HLSL                     1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-TeX                      1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+C#                       2 hrs 42 mins       ████████████░░░░░░░░░░░░░   49.19 % 
+HLSL                     1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   30.09 % 
+TeX                      1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Rider                    4 hrs 18 mins       ███████████████████░░░░░░   76.59 % 
-VS Code                  1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Rider                    4 hrs 22 mins       ████████████████████░░░░░   79.28 % 
+VS Code                  1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
 
 🐱‍💻 Projects: 
-ARChess                  4 hrs 18 mins       ███████████████████░░░░░░   76.59 % 
-psmthesis                1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+ARChess                  4 hrs 22 mins       ████████████████████░░░░░   79.28 % 
+psmthesis                1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -270,7 +272,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2026 00:20:21 UTC
+ Last Updated on 06/05/2026 00:19:38 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
