@@ -241,13 +241,13 @@ Sunday                   599 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       24 mins             █████████████████████████   100.00 % 
+C#                       50 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Rider                    24 mins             █████████████████████████   100.00 % 
+Rider                    50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ARChess                  24 mins             █████████████████████████   100.00 % 
+ARChess                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -267,7 +267,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 00:24:36 UTC
+ Last Updated on 27/05/2026 00:25:59 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
