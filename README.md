@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -241,18 +241,18 @@ Sunday                   679 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       24 hrs 36 mins      ██████████████████████░░░   87.85 % 
-TeX                      3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-GitIgnore file           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C#                       27 hrs 57 mins      ██████████████████████░░░   89.15 % 
+TeX                      3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+GitIgnore file           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Rider                    24 hrs 48 mins      ██████████████████████░░░   88.56 % 
-VS Code                  3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Rider                    28 hrs 9 mins       ██████████████████████░░░   89.79 % 
+VS Code                  3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 
 🐱‍💻 Projects: 
-ARChess                  24 hrs 48 mins      ██████████████████████░░░   88.56 % 
-psmthesis                3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+ARChess                  28 hrs 9 mins       ██████████████████████░░░   89.79 % 
+psmthesis                3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -272,7 +272,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2026 00:36:07 UTC
+ Last Updated on 20/06/2026 00:28:02 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
