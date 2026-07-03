@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -241,21 +241,21 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      17 hrs 33 mins      ████████████████████░░░░░   80.62 % 
-C#                       4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-ShaderLab                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-HLSL                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TeX                      15 hrs 57 mins      ██████████████████████░░░   86.28 % 
+C#                       2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+ShaderLab                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+HLSL                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 18 mins      ███████████████░░░░░░░░░░   61.13 % 
-Copilot CLI              4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Rider                    4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+VS Code                  11 hrs 54 mins      ████████████████░░░░░░░░░   64.38 % 
+Copilot CLI              4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Rider                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 
 🐱‍💻 Projects: 
-psmthesis                17 hrs 17 mins      ████████████████████░░░░░   79.38 % 
-ARChess                  4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-my-resume-front-end      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+psmthesis                15 hrs 41 mins      █████████████████████░░░░   84.82 % 
+ARChess                  2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+my-resume-front-end      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -275,7 +275,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 00:28:24 UTC
+ Last Updated on 03/07/2026 01:46:10 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
