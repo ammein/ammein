@@ -241,21 +241,20 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      15 hrs 57 mins      ██████████████████████░░░   86.28 % 
-C#                       2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-ShaderLab                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-HLSL                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TeX                      15 hrs 38 mins      ████████████████████████░   94.41 % 
+C#                       46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+ShaderLab                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+HLSL                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 54 mins      ████████████████░░░░░░░░░   64.38 % 
-Copilot CLI              4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Rider                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+VS Code                  11 hrs 38 mins      ██████████████████░░░░░░░   70.26 % 
+Copilot CLI              4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Rider                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🐱‍💻 Projects: 
-psmthesis                15 hrs 41 mins      █████████████████████░░░░   84.82 % 
-ARChess                  2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-my-resume-front-end      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+psmthesis                15 hrs 41 mins      ████████████████████████░   94.64 % 
+ARChess                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -275,7 +274,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 01:46:10 UTC
+ Last Updated on 04/07/2026 01:33:04 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
