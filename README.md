@@ -241,20 +241,20 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      15 hrs 25 mins      ████████████████████████░   96.34 % 
-C#                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-ShaderLab                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-HLSL                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TeX                      12 hrs 22 mins      ████████████████████████░   95.48 % 
+C#                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+ShaderLab                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+HLSL                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 25 mins      ██████████████████░░░░░░░   71.34 % 
-Copilot CLI              4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-Rider                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+VS Code                  9 hrs 23 mins       ██████████████████░░░░░░░   72.51 % 
+Copilot CLI              3 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Rider                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🐱‍💻 Projects: 
-psmthesis                15 hrs 27 mins      ████████████████████████░   96.59 % 
-ARChess                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+psmthesis                12 hrs 24 mins      ████████████████████████░   95.78 % 
+ARChess                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -274,7 +274,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 01:49:23 UTC
+ Last Updated on 06/07/2026 01:55:28 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
