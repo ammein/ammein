@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -241,20 +241,14 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      8 hrs 15 mins       █████████████████████████   99.41 % 
-C#                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-BST                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TeX                      2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 15 mins       ███████████████████░░░░░░   75.24 % 
-Copilot CLI              2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Rider                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+VS Code                  2 hrs 2 mins        █████████████████████░░░░   85.36 % 
+Copilot CLI              21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 
 🐱‍💻 Projects: 
-psmthesis                8 hrs 16 mins       █████████████████████████   99.47 % 
-ARChess                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+psmthesis                2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -274,7 +268,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 01:52:55 UTC
+ Last Updated on 08/07/2026 01:24:37 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
