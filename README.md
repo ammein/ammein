@@ -206,7 +206,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 113 Contributions in the Year 2026
+> 🏆 116 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -241,14 +241,14 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      2 hrs 23 mins       █████████████████████████   100.00 % 
+TeX                      59 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 2 mins        █████████████████████░░░░   85.36 % 
-Copilot CLI              21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+VS Code                  52 mins             ██████████████████████░░░   88.15 % 
+Copilot CLI              7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🐱‍💻 Projects: 
-psmthesis                2 hrs 23 mins       █████████████████████████   100.00 % 
+psmthesis                59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -268,7 +268,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 01:24:37 UTC
+ Last Updated on 09/07/2026 01:33:51 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
