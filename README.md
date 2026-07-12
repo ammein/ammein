@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -241,15 +241,18 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      1 hr 58 mins        █████████████████████████   99.99 % 
+TeX                      2 hrs 39 mins       ████████████████████████░   97.16 % 
+C#                       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        ████████████████████████░   97.16 % 
-Copilot CLI              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+VS Code                  2 hrs 35 mins       ████████████████████████░   95.11 % 
+Rider                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Copilot CLI              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🐱‍💻 Projects: 
-psmthesis                1 hr 58 mins        █████████████████████████   100.00 % 
+psmthesis                2 hrs 39 mins       ████████████████████████░   97.17 % 
+ARChess                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -269,7 +272,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 01:23:13 UTC
+ Last Updated on 12/07/2026 01:25:08 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
