@@ -241,18 +241,18 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      2 hrs 34 mins       ████████████████████████░   97.08 % 
-C#                       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TeX                      2 hrs 26 mins       ████████████████████████░   96.92 % 
+C#                       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       ████████████████████████░   94.97 % 
-Rider                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Copilot CLI              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+VS Code                  2 hrs 22 mins       ████████████████████████░   94.69 % 
+Rider                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Copilot CLI              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🐱‍💻 Projects: 
-psmthesis                2 hrs 34 mins       ████████████████████████░   97.09 % 
-ARChess                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+psmthesis                2 hrs 26 mins       ████████████████████████░   96.93 % 
+ARChess                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -272,7 +272,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 01:26:42 UTC
+ Last Updated on 14/07/2026 01:16:22 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
