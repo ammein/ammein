@@ -214,6 +214,46 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+🌆 Daytime                1328 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+🌃 Evening                1877 commits        █████████░░░░░░░░░░░░░░░░   36.69 % 
+🌙 Night                  1568 commits        ████████░░░░░░░░░░░░░░░░░   30.65 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Tuesday                  794 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Wednesday                834 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Thursday                 532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Friday                   701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Saturday                 903 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Sunday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+TeX                      2 hrs 19 mins       ████████████████████████░   96.77 % 
+C#                       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 19 mins       ████████████████████████░   96.78 % 
+Rider                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+
+🐱‍💻 Projects: 
+psmthesis                2 hrs 19 mins       ████████████████████████░   96.78 % 
+ARChess                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -231,7 +271,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 01:26:42 UTC
+ Last Updated on 18/07/2026 01:17:54 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
