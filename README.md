@@ -198,7 +198,9 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2042%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -241,13 +243,33 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      3 hrs 14 mins       █████████████████████████   100.00 % 
+TeX                      3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-psmthesis                3 hrs 14 mins       █████████████████████████   100.00 % 
+psmthesis                3 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 mins (3.84%)
+
+✍️ 0 lines written by AI, 16 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 232 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -267,7 +289,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 01:34:46 UTC
+ Last Updated on 28/07/2026 01:22:03 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
