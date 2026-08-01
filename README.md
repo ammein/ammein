@@ -243,24 +243,24 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      5 hrs 44 mins       █████████████████████████   99.24 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TeX                      5 hrs 26 mins       █████████████████████████   99.20 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-psmthesis                5 hrs 44 mins       █████████████████████████   99.41 % 
-call_15gOkb7mSTBeGBeavpmH2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+psmthesis                5 hrs 26 mins       █████████████████████████   99.38 % 
+call_15gOkb7mSTBeGBeavpmH2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (18.42%)
+⏱ AI Coding Time: 1 hr 3 mins (19.43%)
 
-✍️ 0 lines written by AI, 130 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 128 lines written by hand (0.0% AI-written)
 
 🔤 79,942 Input Tokens, 1,323 Output Tokens
 
@@ -294,7 +294,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 01:30:52 UTC
+ Last Updated on 01/08/2026 01:30:38 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
