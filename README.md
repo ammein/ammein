@@ -243,37 +243,35 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      5 hrs 26 mins       █████████████████████████   99.20 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TeX                      5 hrs 18 mins       █████████████████████████   99.18 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-psmthesis                5 hrs 26 mins       █████████████████████████   99.38 % 
-call_15gOkb7mSTBeGBeavpmH2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+psmthesis                5 hrs 18 mins       █████████████████████████   99.36 % 
+call_15gOkb7mSTBeGBeavpmH2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (19.43%)
+⏱ AI Coding Time: 55 mins (17.36%)
 
-✍️ 0 lines written by AI, 128 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 126 lines written by hand (0.0% AI-written)
 
-🔤 79,942 Input Tokens, 1,323 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.26 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 1 AI Sessions, 4 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 141 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 92 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -294,7 +292,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 01:28:56 UTC
+ Last Updated on 04/08/2026 01:20:02 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
