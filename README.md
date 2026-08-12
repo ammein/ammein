@@ -208,7 +208,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 118 Contributions in the Year 2026
+> 🏆 120 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -243,15 +243,16 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      1 hr 40 mins        ███████████████████████░░   91.88 % 
-OpenEdge ABL             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+TeX                      1 hr 55 mins        █████████████████████░░░░   85.88 % 
+OpenEdge ABL             18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-psmthesis                1 hr 38 mins        ██████████████████████░░░   89.54 % 
-my-resume-front-end      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+psmthesis                2 hrs 2 mins        ███████████████████████░░   91.44 % 
+my-resume-front-end      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -277,7 +278,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 00:48:29 UTC
+ Last Updated on 12/08/2026 00:56:28 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
