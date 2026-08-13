@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2016%20mins-blue?style=flat)
 
@@ -243,16 +243,16 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      1 hr 55 mins        █████████████████████░░░░   85.88 % 
-OpenEdge ABL             18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TeX                      57 mins             ███████████████████░░░░░░   75.40 % 
+OpenEdge ABL             18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-psmthesis                2 hrs 2 mins        ███████████████████████░░   91.44 % 
-my-resume-front-end      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+psmthesis                1 hr 5 mins         █████████████████████░░░░   85.08 % 
+my-resume-front-end      11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -278,7 +278,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 00:56:28 UTC
+ Last Updated on 13/08/2026 00:57:57 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
