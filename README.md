@@ -243,16 +243,15 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      57 mins             ███████████████████░░░░░░   75.40 % 
-OpenEdge ABL             18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TeX                      26 mins             ███████████████░░░░░░░░░░   58.34 % 
+OpenEdge ABL             18 mins             ██████████░░░░░░░░░░░░░░░   41.60 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-psmthesis                1 hr 5 mins         █████████████████████░░░░   85.08 % 
-my-resume-front-end      11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+psmthesis                45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -278,7 +277,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 00:57:57 UTC
+ Last Updated on 14/08/2026 00:58:08 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
