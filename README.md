@@ -261,11 +261,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               28 repos            ███████████░░░░░░░░░░░░░░   45.90 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JavaScript               28 repos            ████████████░░░░░░░░░░░░░   46.67 % 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
@@ -275,7 +275,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 00:34:32 UTC
+ Last Updated on 21/08/2026 00:36:06 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
