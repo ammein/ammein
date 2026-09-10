@@ -208,7 +208,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 120 Contributions in the Year 2026
+> 🏆 125 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -219,21 +219,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-🌆 Daytime                1328 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-🌃 Evening                1877 commits        █████████░░░░░░░░░░░░░░░░   36.69 % 
-🌙 Night                  1568 commits        ████████░░░░░░░░░░░░░░░░░   30.65 % 
+🌞 Morning                347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+🌆 Daytime                1338 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+🌃 Evening                1882 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
+🌙 Night                  1592 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Tuesday                  794 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                834 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Thursday                 532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Friday                   701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Saturday                 903 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Sunday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Monday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Tuesday                  798 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Wednesday                842 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Thursday                 544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Friday                   703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Saturday                 915 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Sunday                   719 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 ```
 
 
@@ -243,13 +243,13 @@ Sunday                   717 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+my-resume-front-end      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -275,7 +275,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 01:53:00 UTC
+ Last Updated on 10/09/2026 01:48:36 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
