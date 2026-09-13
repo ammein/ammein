@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2016%20mins-blue?style=flat)
 
@@ -208,7 +208,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 125 Contributions in the Year 2026
+> 🏆 127 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -243,13 +243,13 @@ Sunday                   719 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TeX                      38 mins             █████████████████████████   100.00 % 
+TeX                      46 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+VS Code                  46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-resume-front-end      38 mins             █████████████████████████   100.00 % 
+my-resume-front-end      46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -275,7 +275,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 01:53:11 UTC
+ Last Updated on 13/09/2026 01:44:05 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
