@@ -208,7 +208,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2026
+> 🏆 130 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -243,13 +243,13 @@ Sunday                   719 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GLSL                     25 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+glsl-projects            25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -275,7 +275,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 01:56:36 UTC
+ Last Updated on 25/09/2026 02:12:35 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
