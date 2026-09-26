@@ -198,7 +198,7 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ammein&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2016%20mins-blue?style=flat)
 
@@ -219,21 +219,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-🌆 Daytime                1338 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-🌃 Evening                1882 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
-🌙 Night                  1592 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+🌆 Daytime                1320 commits        ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+🌃 Evening                1858 commits        █████████░░░░░░░░░░░░░░░░   36.63 % 
+🌙 Night                  1555 commits        ████████░░░░░░░░░░░░░░░░░   30.66 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Tuesday                  798 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Wednesday                842 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Thursday                 544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Friday                   703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Saturday                 915 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Sunday                   719 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Monday                   628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Tuesday                  791 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Wednesday                826 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Thursday                 534 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Friday                   694 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Saturday                 897 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Sunday                   702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 ```
 
 
@@ -275,7 +275,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 02:12:35 UTC
+ Last Updated on 26/09/2026 02:18:59 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
