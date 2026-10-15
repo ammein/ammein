@@ -219,21 +219,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                347 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-🌆 Daytime                1338 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-🌃 Evening                1882 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
-🌙 Night                  1592 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+🌞 Morning                350 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+🌆 Daytime                1346 commits        ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+🌃 Evening                1887 commits        █████████░░░░░░░░░░░░░░░░   36.30 % 
+🌙 Night                  1616 commits        ████████░░░░░░░░░░░░░░░░░   31.08 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Tuesday                  798 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Wednesday                842 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Thursday                 544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Friday                   703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Saturday                 915 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Sunday                   719 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Monday                   641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Tuesday                  802 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Wednesday                848 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Thursday                 555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Friday                   705 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Saturday                 927 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Sunday                   721 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 ```
 
 
@@ -243,15 +243,15 @@ Sunday                   719 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-GLSL                     6 mins              ███████████████████░░░░░░   77.56 % 
-TeX                      1 min               ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+TeX                      21 mins             ███████████████████░░░░░░   77.62 % 
+GLSL                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-glsl-projects            6 mins              ███████████████████░░░░░░   77.56 % 
-my-resume-front-end      1 min               ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+my-resume-front-end      21 mins             ███████████████████░░░░░░   77.62 % 
+glsl-projects            6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -277,7 +277,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ammein/ammein/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 02:26:42 UTC
+ Last Updated on 15/10/2026 02:07:30 UTC
 <!--END_SECTION:waka-->
 
 ### aminshazrin@personal ~ $ Languages and Tools
